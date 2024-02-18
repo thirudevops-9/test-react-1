@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to deploymemt
+          Welcome to deploymemt-2
           <p>
-            keep smile.... deployment-1
+            keep smile.... deployment-2
           </p>
           
         </p>
